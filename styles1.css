@@ -112,6 +112,12 @@ a.scroll-down1{
 .liste{
     font-size: 18px;
 }
+.participant{
+    font-size: 11px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    margin-left: 30px;
+    margin-top: 30px;
+}
 
 /* tournois mensuel */
 
