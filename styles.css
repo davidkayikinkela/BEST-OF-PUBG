@@ -157,7 +157,7 @@ h2.text2{
 
 } */
 
-.ann{
+.ann1{
     margin-top: 20px;
     width: 350px;
     border: solid 4px #FFF;
@@ -166,7 +166,7 @@ h2.text2{
     overflow: hidden;
     margin-left: 10px;
 }
-.annt{
+.annt1{
     color: white;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
     font-size: 18Px;
@@ -178,7 +178,15 @@ h2.text2{
     width: 40px;
     margin-left: 190px;
 }
-
+.ann2{
+    margin-top: 50px;
+    width: 350px;
+    border: solid 4px #FFF;
+    box-shadow: 0 0 14px rgba(226, 169, 12, 0.9);
+    margin-left: 5px;
+    overflow: hidden;
+    margin-left: 10px;
+}
 
 
 
@@ -187,7 +195,7 @@ h2.text2{
 
 .tournois{
     display: flex;
-    margin-top: 140px;
+    margin-top: 80px;
     align-items: center;
     text-decoration: none;
 }
@@ -298,7 +306,7 @@ h2.lienw{
 /* createur */
 .crea{
     margin: 15px;
-    margin-top: 140px;
+    margin-top:80px;
 }
 .createur{
     color: white;
