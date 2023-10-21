@@ -56,8 +56,10 @@ a.scroll-down1{
     display: flex;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
     margin-top: 10px;
-    margin-left: px;
+    margin-left: -45px;
+    
 }
+
 /* classement */
 .classement{
     color: white;
@@ -155,7 +157,13 @@ a.scroll-down1{
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
     font-size: 15px;
 }
-
+#archives{
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-size: 18px;
+    text-align: center;
+    text-decoration: underline rgb(230, 170, 7);
+    
+}
 
 
 
