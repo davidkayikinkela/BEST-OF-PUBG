@@ -22,7 +22,7 @@ header.header{
 }
 
 header.header img{
-    width: 60px;
+    width: 50px;
     margin-left: -12px;
     margin-top: -10px;
 }
@@ -33,6 +33,7 @@ section.top-page{
     background-size: cover;
     height: 38vh;
     padding: 12px;
+    
 }
 /* page de bienvenu */
 
@@ -44,20 +45,19 @@ section.top-page{
 }
 .gros-titre-2{
     color: white;
-    font-size: 50px;
-    margin-top: -30px;
+    font-size: 40px;
+    margin-top: -20px;
 }
 .petit-titre{
     color: rgb(184, 181, 178);
     font-size: 13px;
-    margin-top: -30px;
-    margin-bottom: 60px;
+    margin-top: -20px;
+    margin-bottom: 50px;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
 }
 .scroll-down{
     color: white;
     font-size: 15px;
-    font-size: 14px;
     text-decoration: none;
     font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
     
@@ -88,6 +88,7 @@ h2.text-2{
 li a {
     color: white;
     text-decoration: none;
+    font-size: 12px;
 }
 
 nav.nav {
@@ -182,7 +183,7 @@ h2.text2{
     margin-top: -10px;
 }
 .ann2{
-    margin-top: 30px;
+    margin-top: 50px;
     width: 350px;
     border: solid 4px #FFF;
     box-shadow: 0 0 14px rgba(226, 169, 12, 0.9);

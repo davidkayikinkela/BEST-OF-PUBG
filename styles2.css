@@ -27,7 +27,7 @@ li a{
     color: white;
     
     list-style: none;
-    font-size: 11px;
+    font-size: 13px;
     margin-left: 25px;
     text-decoration: none;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
@@ -166,11 +166,11 @@ a.scroll-down1{
 }
 .h14{
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
-    font-size: 15px;
+    font-size: 13px;
 }
 .arch1{
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
-    font-size: 9px;
+    font-size: 7px;
     margin-left: 5px;
 }
 
